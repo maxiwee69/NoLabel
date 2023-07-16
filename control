@@ -1,0 +1,9 @@
+Package: de.maxiwee.nolabel
+Name: nolabel
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Remove the app name from the home screen
+Maintainer: maxiwee
+Author: maxiwee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
